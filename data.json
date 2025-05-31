@@ -3,10 +3,10 @@
     "PurchaseListID": "PL_20250529_004",
     "CreatedOn": "2025-05-29T14:09:56.0717364Z",
     "TotalEstimation": 0,
-    "Status": "Dropped",
+    "Status": "Draft",
     "PlannedDate": "2025-05-31T00:00:00",
     "Remarks": "",
-    "Deducted": false
+    "Deducted": true
   },
   "materials": [
     {
